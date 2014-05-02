@@ -1,0 +1,17 @@
+Name: Allen Shultz
+
+The makefile is unaltered. To compile hanoi.cc, simply type 
+'make hanoi' into the console. To compile hanoi_it.cc, type
+'make hanoi_it' into the console. The hanoi_it version is 
+an interative version of the same function.
+
+
+
+Personally, I believe that the interative version of the function 
+provides more clarity. However, I feel that if you were trying to 
+demonstrate both functions to a person not experienced in computer
+programming, they would understand the non-interative approach much 
+better. In addition, I didn't notice any performance differences 
+between the non-iterative approach and the iterative approach. Although,
+I do feel it is easier to demonstrate correctness of the algorithm when
+using the iterative approach. 
